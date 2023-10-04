@@ -1,0 +1,5247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2023년 10월 04일 (수)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>서울,경기도 육상 중기예보 - 2023년 10월 04일 (수)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+<description>
+	<header>
+		<title>서울,경기도 육상중기예보</title>
+		<tm>202310040600</tm>
+		<wf><![CDATA[○ (하늘상태) 이번 예보기간은 대체로 맑거나, 가끔 구름많겠습니다.<br />○ (기온) 아침 기온은 8~15도로 평년(6~14도)과 비슷하거나 조금 높겠고, 낮 기온은 20~23도로 평년(20~24도)과 비슷하겠습니다.<br />○ (해상) 서해중부해상의 물결은 0.5~1.5m로 일겠습니다.<br />○ (주말전망) 7일(토)은 구름많겠고, 8일(일)은 구름많다가 차차 맑아지겠습니다. 아침 기온은 9~15도, 낮 기온은 21~23도가 되겠습니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>15</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>백령도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>15</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>과천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광명</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>강화</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>김포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>시흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>부천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의정부</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>고양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>동두천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>연천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>19</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>포천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>가평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>구리</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>23</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>남양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>하남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>오산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>화성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>성남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의왕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>군포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>14</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>13</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>용인</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>22</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>12</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>여주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-07 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>11</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-09 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-10 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-10-11 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-12 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-13 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>20</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-10-14 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>21</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
